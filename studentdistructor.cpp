@@ -17,7 +17,7 @@ class student
         cout << "enter roll number : ";
         cin >> rno;
 
-        cout << "enetr a name: ";
+        cout << "enter a name: ";
         cin >> name;
 
 
@@ -52,4 +52,4 @@ int main()
     std.input();
     std.display();
     return 0;
-}
+}                                             
