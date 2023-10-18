@@ -14,7 +14,7 @@ class bankaccount
         amount = amt;
 
         balance = balance + amount;
-        cout << "cutrent balance :" << balance ;
+        cout << "current balance :" << balance ;
 
     }
 
