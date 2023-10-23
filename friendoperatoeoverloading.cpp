@@ -55,7 +55,5 @@ int main()
     f4 = ++f3;
     cout << " total f4 is : " << f4.getarea() << endl;
 
-
-
     return 0; 
 }
