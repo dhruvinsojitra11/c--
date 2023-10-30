@@ -77,3 +77,10 @@ int main()
 
     return 0;
 }
+
+
+// theory
+// virtual function
+// pure virtual function
+// static members
+// template
