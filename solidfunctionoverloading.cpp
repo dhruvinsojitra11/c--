@@ -10,11 +10,11 @@ class solid
 
     solid()
     {
-        // radius =r;
-        // lengh =l;
-        // width=w;
-        // height=h; 
-        // base = b;
+        //  radius =r;
+        //  length =l;
+        //  width =w;
+        //  height =h; 
+        //  base = b;
     }
     
     { 
